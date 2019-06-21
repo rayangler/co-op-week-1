@@ -1,0 +1,6 @@
+My favorite editor is ﻿﻿﻿﻿Atom. I like it because it is a lightweight text editor
+with minimal buttons for distraction and compatibility across Windows, Mac, and
+Linux. It allows me to keep track of my git branch and diffs
+in my repos thanks to its synchronization with Github. I also like how
+it is compatible with many different programming languages and is capable of
+downloading packages and tools to improve the way Atom works to my needs.﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿
